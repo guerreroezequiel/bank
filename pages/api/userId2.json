@@ -1,0 +1,13 @@
+{
+  "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNjU2MDk5NzU4LCJleHAiOjE2NTg2OTE3NTh9.xtPF7hLoM_jEWvCC374H60eCNSXYlyLQfX6fj93fx0U",
+  "user": {
+    "id": 2,
+    "username": "Ilona Vega Alba",
+    "email": "fakeilona@mail.com",
+    "provider": "local",
+    "confirmed": true,
+    "blocked": false,
+    "createdAt": "2022-06-24T19:42:38.416Z",
+    "updatedAt": "2022-06-24T19:42:38.416Z"
+  }
+}

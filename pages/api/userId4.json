@@ -1,0 +1,13 @@
+{
+  "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwiaWF0IjoxNjU2MTAwMTk0LCJleHAiOjE2NTg2OTIxOTR9.MpIMLBwTKP99fsFGUvJD0ptM7fvPEcdjXSGBXD1hymQ",
+  "user": {
+    "id": 4,
+    "username": "Elina Abreu Camacho",
+    "email": "fakecamacho@mail.com",
+    "provider": "local",
+    "confirmed": true,
+    "blocked": false,
+    "createdAt": "2022-06-24T19:49:54.731Z",
+    "updatedAt": "2022-06-24T19:49:54.731Z"
+  }
+}

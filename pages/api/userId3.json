@@ -1,0 +1,13 @@
+{
+  "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNjU2MTAwMDkzLCJleHAiOjE2NTg2OTIwOTN9.30DCT6UpFIN7DwsXMnYQLuQSJFcZzzFXg00lmTGa77A",
+  "user": {
+    "id": 3,
+    "username": "Meliton Mayonga Escamilla",
+    "email": "fakemeliton@mail.com",
+    "provider": "local",
+    "confirmed": true,
+    "blocked": false,
+    "createdAt": "2022-06-24T19:48:13.739Z",
+    "updatedAt": "2022-06-24T19:48:13.739Z"
+  }
+}
