@@ -20,7 +20,7 @@ function Header() {
 
   return (
     <nav className={`${clicked ? 'h-[500px]' : 'h-20'} flex w-full duration-300 float-left fixed top-0
-     bg-blue-800 bg-opacity-80 text-white  pt-2 pb-3 rounded-b-3xl text-center backdrop-blur-sm
+     bg-blue-800 bg-opacity-80 text-white pt-2 pb-3 rounded-b-3xl text-center backdrop-blur-md
      md:h-20 shadow-md md:rounded-none md:justify-end md:pr-7  md:bg-opacity-60 md:hover:bg-opacity-80 md:space-x-5`}>
     
 

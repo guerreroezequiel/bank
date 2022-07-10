@@ -17,10 +17,10 @@ function cuentaPage({cuenta,tarjeta}:any) {
 
 export async function getStaticProps() {
   // try{
-    const resAccount = await axios.get('http://localhost:1337/api/users/5?populate=account')
-    const resCards = await axios.get('http://localhost:1337/api/users/5?populate=cards' )
+    const resAccount = await axios.get(`http://localhost:1337/api/users/5?populate=account`)
+    const resCards = await axios.get(`http://localhost:1337/api/users/5?populate=cards` )
     const cuenta = await resAccount.data.account
-    const tarjeta = resCards.data.cards[1]
+    const tarjeta = await resCards.data.cards[0]
     return {
       props:{
         cuenta,
